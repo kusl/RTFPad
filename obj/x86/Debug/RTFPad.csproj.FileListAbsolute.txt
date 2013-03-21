@@ -1,0 +1,11 @@
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\bin\Debug\RTFPad.exe
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\bin\Debug\RTFPad.pdb
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\RTFPad.icons.resources
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\RTFPad.Properties.Resources.resources
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\RTFPad.rtfPadForm.resources
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\RTFPad.exe
+D:\Programming\My programming projects\[C#]RTFPad-PAP\RTFPad\RTFPad\obj\x86\Debug\RTFPad.pdb
